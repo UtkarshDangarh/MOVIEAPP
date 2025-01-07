@@ -8,7 +8,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCRP1l2j3i32yTayxD7kau9NN_yddi1fh4",
+  apiKey: "API-KEY",
   authDomain: "movie-app-eb0cc.firebaseapp.com",
   projectId: "movie-app-eb0cc",
   storageBucket: "movie-app-eb0cc.appspot.com",
